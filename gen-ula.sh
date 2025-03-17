@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # ULA Generator
 # Alexandre de Verteuil <adeverteuil@inap.com>
